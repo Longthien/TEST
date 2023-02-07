@@ -10,5 +10,6 @@ root.protocol("WM_DELETE_WINDOW", do_nothing)
 label = tk.Label(root, text="CON CAC THANG LON THIEN",font=("Helvetica",20))
 label.pack()
 
+print("concac")
 
 root.mainloop()
